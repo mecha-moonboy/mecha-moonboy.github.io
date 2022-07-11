@@ -2575,11 +2575,11 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			/*max-width: 40%;
+			max-width: 40%;
 		}
 
 			.image.left img, .image.right img {
-				/*width: 100%;
+				width: 100%;
 			}
 
 		.image.left {
@@ -2601,13 +2601,13 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				/*width: 100%;
+				width: 100%;
 			}
 
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			/*width: 100%;
+			width: 100%;
 		}
 
 			.image.main img {
