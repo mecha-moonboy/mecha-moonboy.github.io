@@ -2571,7 +2571,6 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.25em;
 			display: block;
-                        aspect-ratio: unset;
 		}
 
 		.image.left, .image.right {
