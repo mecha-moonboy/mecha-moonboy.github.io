@@ -2571,14 +2571,15 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.25em;
 			display: block;
+                        aspect-ratio: unset;
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			/*max-width: 40%;
 		}
 
 			.image.left img, .image.right img {
-				width: 100%;
+				/*width: 100%;
 			}
 
 		.image.left {
@@ -2600,13 +2601,13 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 100%;
+				/*width: 100%;
 			}
 
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			width: 100%;
+			/*width: 100%;
 		}
 
 			.image.main img {
